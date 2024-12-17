@@ -1,0 +1,7 @@
+
+node server/config/db.js
+npm install bcrypt jsonwebtoken
+npm install multer
+npm install express-session
+npm install connect-flash
+npm install nodemailer
